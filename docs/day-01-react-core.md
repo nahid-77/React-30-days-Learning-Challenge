@@ -41,27 +41,7 @@ React creates a lightweight copy of the real DOM in memory. When state changes, 
 | `Avatar` | `src`, `alt`, `size` | Displays a rounded user image. |
 | `Badge` | `text`, `color` | Pill‑shaped status/label indicator. |
 | `Card` | `title`, `children` | Container with border and shadow for grouping content. |
-| `Header` | `title`, `rightElement` | Flexible header bar with title and custom right content. |
-
----
-
-## 📁 Project Structure (Day 1)
-react-foundations/
-├── docs/                
-│   ├── day-01-react-core.md
-│   ├── ...
-├── src/ components/
-│       ├── Button.jsx
-│       ├── Avatar.jsx
-│       ├── Badge.jsx
-│       ├── Card.jsx
-│       └── Header.jsxsrc/      
-│   ├── App.jsx
-│   └── main.jsx
-├── public/
-├── index.html
-├── package.json
-└── README.md       
+| `Header` | `title`, `rightElement` | Flexible header bar with title and custom right content. |    
 
 ---
 
@@ -75,3 +55,4 @@ react-foundations/
 
 ```bash
 git commit -m "Day 1: React Core Foundations - Vite, JSX, Virtual DOM, 5 Components"
+```
