@@ -53,21 +53,6 @@ Every single day is divided into six focused segments:
 *The table above will be updated daily with links to detailed notes for each day.*
 
 ---
-## 📁 Project Structure
-
-react-foundations/
-├── docs/                 # Detailed daily notes and learning logs
-│   ├── day-01-react-core.md
-│   ├── day-02-component-thinking.md
-│   └── ...
-├── src/
-│   ├── components/       # Reusable UI pieces (organized by day/feature)
-│   ├── App.jsx
-│   └── main.jsx
-├── public/
-├── index.html
-├── package.json
-└── README.md             # You are here
 
 ## 🚀 Quick Start
 
@@ -85,6 +70,9 @@ npm install
 
 # Start the development server
 npm run dev
+```
+
+---
 
 ## 🛠️ Tech Stack & Tools
 React 18+ – UI library
@@ -97,6 +85,8 @@ Git & GitHub – Version control and daily commit streak
 
 Vercel / Netlify – Deployment (final week)
 
+---
+
 ## 📚 Key Resources
 React Official Documentation
 
@@ -106,10 +96,14 @@ JavaScript.info (for JS refreshers)
 
 MDN Web Docs
 
+---
+
 ## 🏆 Commitment
 I am publicly committing to 30 days of deliberate React practice. Each day's code and notes will be pushed to this repository, maintaining a green contribution streak as proof of consistent effort.
 
 Feel free to follow along, open issues, or suggest improvements!
+
+---
 
 📬 Connect
 GitHub: @nahid_77
