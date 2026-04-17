@@ -46,16 +46,22 @@ React creates a lightweight copy of the real DOM in memory. When state changes, 
 ---
 
 ## 📁 Project Structure (Day 1)
-src/
-├── components/
-│ ├── Button.jsx
-│ ├── Avatar.jsx
-│ ├── Badge.jsx
-│ ├── Card.jsx
-│ └── Header.jsx
-├── App.jsx
-└── main.jsx
-
+react-foundations/
+├── docs/                
+│   ├── day-01-react-core.md
+│   ├── ...
+├── src/ components/
+│       ├── Button.jsx
+│       ├── Avatar.jsx
+│       ├── Badge.jsx
+│       ├── Card.jsx
+│       └── Header.jsxsrc/      
+│   ├── App.jsx
+│   └── main.jsx
+├── public/
+├── index.html
+├── package.json
+└── README.md       
 
 ---
 
