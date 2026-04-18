@@ -55,4 +55,7 @@ React creates a lightweight copy of the real DOM in memory. When state changes, 
 
 ```bash
 git commit -m "Day 1: React Core Foundations - Vite, JSX, Virtual DOM, 5 Components"
+<<<<<<< HEAD:docs/day-01-react-core.md
 ```
+=======
+>>>>>>> d445551287fc61836b92a428e82f8f495836c928:day-01-react-core-foundations/docs/day-01-react-core.md
