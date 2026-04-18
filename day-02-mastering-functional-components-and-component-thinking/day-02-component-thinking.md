@@ -4,7 +4,7 @@
 ### 📗 `day-02-component-thinking.md`
 
 ```markdown
-# Day 2: Mastering Functional Components & Component Thinking
+## Day 2: Mastering Functional Components & Component Thinking
 
 **Date:** [18 April, 2026]  
 **Focus:** Component Architecture, Props, Single Responsibility, Tree Visualization
